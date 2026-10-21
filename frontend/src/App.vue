@@ -65,7 +65,7 @@ onMounted(load)
 <template>
   <main>
     <header>
-      <span class="eyebrow">MỖI NGÀY, MỘT CHÚT TIẾN BỘ</span>
+      <span class="eyebrow">MỖI NGÀY, MỘT CHÚT TIẾN BỘ NHA HUYỀN TRANG</span>
       <h1>Công việc của tôi<span>.</span></h1>
       <p>Ghi lại việc cần làm, dành tâm trí cho điều quan trọng.</p>
     </header>
